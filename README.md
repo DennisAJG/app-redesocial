@@ -62,3 +62,8 @@ A API será dividida em pacotes principais e auxiliares para modularizar o códi
 ---
 
 Esse README serve como um guia inicial para entender a estrutura e os principais componentes do **app-redesocial**.
+
+---
+## Execução de comandos dentro da api/
+- **go mod init api**: vai criar o modulo para a api 
+- **go get github.com/gorilla/mux**: uso para configurações de routers
