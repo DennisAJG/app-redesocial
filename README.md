@@ -67,3 +67,5 @@ Esse README serve como um guia inicial para entender a estrutura e os principais
 ## Execução de comandos dentro da api/
 - **go mod init api**: vai criar o modulo para a api 
 - **go get github.com/gorilla/mux**: uso para configurações de routers
+- **go get github.com/joho/godotenv**: usado para coletar as informações do .env no golang
+- **go get github.com/go-sql-driver/mysql**: usado para conectar com o banco de dados. 
